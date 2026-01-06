@@ -1,0 +1,661 @@
+{
+  "colors": [
+    {
+      "color": "Black",
+      "colorId": "26",
+      "colorFamily": "Black",
+      "colorFamilyId": "26",
+      "colorAltName": "Black",
+      "colorHex": "#1b2a34",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Brick Yellow",
+      "colorId": "5",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "Tan",
+      "colorHex": "#ccb98d",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Dark Stone Grey",
+      "colorId": "199",
+      "colorFamily": "Grey",
+      "colorFamilyId": "194",
+      "colorAltName": "Dark Stone Grey",
+      "colorHex": "#646464",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Stone Grey",
+      "colorId": "194",
+      "colorFamily": "Grey",
+      "colorFamilyId": "194",
+      "colorAltName": "Medium Stone Grey",
+      "colorHex": "#969696",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Bright Yellow",
+      "colorId": "24",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "Yellow",
+      "colorHex": "#fac80a",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Red",
+      "colorId": "21",
+      "colorFamily": "Red",
+      "colorFamilyId": "21",
+      "colorAltName": "Red",
+      "colorHex": "#b40000",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Warm Gold",
+      "colorId": "297",
+      "colorFamily": "Metallic",
+      "colorFamilyId": "346",
+      "colorAltName": "",
+      "colorHex": "#b9953b",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Tr. Light Blue W/ Opalescence",
+      "colorId": "362",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "",
+      "colorHex": "#addded",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Gold Ink",
+      "colorId": "335",
+      "colorFamily": "Metallic",
+      "colorFamilyId": "346",
+      "colorAltName": "",
+      "colorHex": "#b9953b",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "White",
+      "colorId": "1",
+      "colorFamily": "White",
+      "colorFamilyId": "1",
+      "colorAltName": "White",
+      "colorHex": "#f4f4f4",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Light Purple",
+      "colorId": "222",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Bright Pink",
+      "colorHex": "#ff9ecd",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Sand Green",
+      "colorId": "151",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#708e7c",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Reddish Brown",
+      "colorId": "192",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "",
+      "colorHex": "#5f3109",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Dark Orange",
+      "colorId": "38",
+      "colorFamily": "Orange",
+      "colorFamilyId": "106",
+      "colorAltName": "",
+      "colorHex": "#91501c",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Silver Metallic",
+      "colorId": "315",
+      "colorFamily": "Metallic",
+      "colorFamilyId": "346",
+      "colorAltName": "",
+      "colorHex": "#8c8c8c",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Transparent",
+      "colorId": "40",
+      "colorFamily": "White",
+      "colorFamilyId": "1",
+      "colorAltName": "Transparent Clear",
+      "colorHex": "#eeeeee",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Silver Ink",
+      "colorId": "336",
+      "colorFamily": "Metallic",
+      "colorFamilyId": "346",
+      "colorAltName": "Black",
+      "colorHex": "#8c8c8c",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Reddish Violet",
+      "colorId": "124",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Magenta",
+      "colorHex": "#901f76",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Flame Yellowish Orange",
+      "colorId": "191",
+      "colorFamily": "Orange",
+      "colorFamilyId": "106",
+      "colorAltName": "Bright Light Orange",
+      "colorHex": "#fcac00",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Aqua",
+      "colorId": "323",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Light Aqua",
+      "colorHex": "#d3f2ea",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Sand Blue",
+      "colorId": "135",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Black",
+      "colorHex": "#70819a",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Earth Blue",
+      "colorId": "140",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Dark Blue",
+      "colorHex": "#19325a",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Multicombination 5",
+      "colorId": "80",
+      "colorFamily": "Multicombination",
+      "colorFamilyId": "30",
+      "colorAltName": "",
+      "colorHex": "#000000",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Multicombination 6",
+      "colorId": "81",
+      "colorFamily": "Multicombination",
+      "colorFamilyId": "30",
+      "colorAltName": "",
+      "colorHex": "#000000",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Sand Yellow",
+      "colorId": "138",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "Dark Tan",
+      "colorHex": "#897d62",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Medium Nougat",
+      "colorId": "312",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "Medium Dark Flesh",
+      "colorHex": "#aa7d55",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Nougat",
+      "colorId": "18",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "Flesh",
+      "colorHex": "#bb805a",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Olive Green",
+      "colorId": "330",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#77774e",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Bright Yellowish Green",
+      "colorId": "119",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "Lime",
+      "colorHex": "#a5ca18",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Reddish Violet",
+      "colorId": "124",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Magenta",
+      "colorHex": "#901f76",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Bright Orange",
+      "colorId": "0",
+      "colorFamily": "Orange",
+      "colorFamilyId": "106",
+      "colorAltName": "Orange",
+      "colorHex": "#d67923",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Vibrant Yellow",
+      "colorId": "0",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "",
+      "colorHex": "#ffff00",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Green",
+      "colorId": "0",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#58ab41",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Dark Green",
+      "colorId": "0",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "Green",
+      "colorHex": "#00852b",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Azur",
+      "colorId": "0",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Medium Azure",
+      "colorHex": "#68c3e2",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Dark Azur",
+      "colorId": "0",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Dark Azure",
+      "colorHex": "#469bc3",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Blue",
+      "colorId": "23",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Blue",
+      "colorHex": "#1e5aa8",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Lavender",
+      "colorId": "325",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "",
+      "colorHex": "#cda4de",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Bright Purple",
+      "colorId": "221",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Dark Pink",
+      "colorHex": "#c8509b",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "New Dark Red",
+      "colorId": "154",
+      "colorFamily": "Red",
+      "colorFamilyId": "21",
+      "colorAltName": "Dark Red",
+      "colorHex": "#720012",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Vibrant Coral",
+      "colorId": "0",
+      "colorFamily": "Red",
+      "colorFamilyId": "21",
+      "colorAltName": "",
+      "colorHex": "#f06d78",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Light Royal Blue",
+      "colorId": "212",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "Bright Light Blue",
+      "colorHex": "#9dc3f7",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Spring Yellowish Green",
+      "colorId": "326",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "Yellowish Green",
+      "colorHex": "#e2f99a",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Bright Bluish Green",
+      "colorId": "107",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "Dark Turquoise",
+      "colorHex": "#009894",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Light Nougat",
+      "colorId": "283",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "Light Flesh",
+      "colorHex": "#e1bea1",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Earth Green",
+      "colorId": "141",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "Dark Green",
+      "colorHex": "#00451a",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Reddish Orange",
+      "colorId": "47",
+      "colorFamily": "Orange",
+      "colorFamilyId": "106",
+      "colorAltName": "",
+      "colorHex": "#ca4c0b",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Lilac",
+      "colorId": "268",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Dark Purple",
+      "colorHex": "#441a91",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Blue",
+      "colorId": "102",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "",
+      "colorHex": "#7396c8",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Warm Tan",
+      "colorId": "",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "",
+      "colorHex": "#cca373",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Dark Brown",
+      "colorId": "",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "Black",
+      "colorHex": "#372100",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Cool Yellow",
+      "colorId": "",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "Bright Light Yellow",
+      "colorHex": "#ffec6c",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Lavender",
+      "colorId": "",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "Black",
+      "colorHex": "#a06eb9",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Bright Violet W/ Opalescence",
+      "colorId": "",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "",
+      "colorHex": "#6f7ab8",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Tr. Bright Green W/ Opalescence",
+      "colorId": "",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#afd246",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Tr. Red",
+      "colorId": "",
+      "colorFamily": "Red",
+      "colorFamilyId": "21",
+      "colorAltName": "",
+      "colorHex": "#b82700",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Tr. Yellow",
+      "colorId": "",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "",
+      "colorHex": "#faf15d",
+      "contrastColorHex": "#000"
+    },
+    {
+      "color": "Titanium Metallic",
+      "colorId": "",
+      "colorFamily": "Black",
+      "colorFamilyId": "26",
+      "colorAltName": "",
+      "colorHex": "#3e3c39",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr.medium Reddish Violet",
+      "colorId": "",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "",
+      "colorHex": "#fd8ecf",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr.bright Bluish Violet",
+      "colorId": "",
+      "colorFamily": "Purple",
+      "colorFamilyId": "221",
+      "colorAltName": "",
+      "colorHex": "#9c95c7",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Bright Orange",
+      "colorId": "",
+      "colorFamily": "Orange",
+      "colorFamilyId": "106",
+      "colorAltName": "",
+      "colorHex": "#e18d0a",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Blue",
+      "colorId": "",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "",
+      "colorHex": "#77b7cc",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Green",
+      "colorId": "",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#76b464",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Brown",
+      "colorId": "",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "",
+      "colorHex": "#bbb29e",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Transparent Black",
+      "colorId": "",
+      "colorFamily": "Black",
+      "colorFamilyId": "26",
+      "colorAltName": "",
+      "colorHex": "#828a8d",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Medium Brown",
+      "colorId": "",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "",
+      "colorHex": "#755745",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Blue W/ Opalescence",
+      "colorId": "",
+      "colorFamily": "Blue",
+      "colorFamilyId": "23",
+      "colorAltName": "",
+      "colorHex": "#0085b8",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Sienna Brown",
+      "colorId": "",
+      "colorFamily": "Brown",
+      "colorFamilyId": "192",
+      "colorAltName": "",
+      "colorHex": "#915c3c",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "White Glow",
+      "colorId": "",
+      "colorFamily": "White",
+      "colorFamilyId": "1",
+      "colorAltName": "",
+      "colorHex": "#f5f3d7",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Ochre Yellow",
+      "colorId": "",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "",
+      "colorHex": "#dcac4b",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Transparent Yellow W/ Opalesence",
+      "colorId": "",
+      "colorFamily": "Yellow",
+      "colorFamilyId": "24",
+      "colorAltName": "",
+      "colorHex": "#ffe622",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "Tr. Fluore. Green",
+      "colorId": "",
+      "colorFamily": "Green",
+      "colorFamilyId": "28",
+      "colorAltName": "",
+      "colorHex": "#f8f184",
+      "contrastColorHex": "#fff"
+    },
+    {
+      "color": "",
+      "colorId": "",
+      "colorFamily": "",
+      "colorFamilyId": "",
+      "colorAltName": "Black",
+      "colorHex": "#",
+      "contrastColorHex": "#fff"
+    }
+  ]
+}
